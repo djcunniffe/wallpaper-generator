@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 #Config Files
-.ini
+config.ini
 
 #Image Files
 .jpg
